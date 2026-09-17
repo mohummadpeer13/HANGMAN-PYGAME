@@ -1,6 +1,4 @@
-Oui, exactement. 😄 Tu veux **le contenu brut du `README.md`**, sans que je l'entoure d'un bloc de code, pour pouvoir le copier directement dans ton fichier.
-
- # 🎮 Jeu du Pendu
+# 🎮 Jeu du Pendu
 
  ## Version Graphique avec Pygame
 
@@ -116,9 +114,3 @@ HANGMAN-PYGAME/
 - 🎮 **Pygame**
 - 📝 Fichier texte pour la liste de mots
 - 💾 Sauvegarde du meilleur score
-
----
-
- ## 📜 Licence
-
- Projet réalisé dans le cadre d'un projet **Epitech**.
